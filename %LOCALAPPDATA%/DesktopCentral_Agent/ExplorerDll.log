@@ -1,0 +1,9 @@
+﻿Date	Time	Severity	PID	TID	Function	Message
+19-10-2024	12:50:07.446	 INFO	 21344	 19504	DllMain	"DLL_PROCESS_ATTACH Mon Aug 19 22:32:08 2024 11.3.2416.6"
+19-10-2024	12:50:07.448	 INFO	 21344	 20672	LateInitialization	"Intialization..."
+19-10-2024	12:50:07.449	 INFO	 21344	 20672	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\vim.exe"
+19-10-2024	12:50:07.450	 INFO	 21344	 20672	LateInitialization	"IsExplorer = 0"
+19-10-2024	12:50:07.451	 INFO	 21344	 20672	Edlp::Path::InitializeExcludedPathPatterns	"Windows drive = C:"
+19-10-2024	12:50:07.453	 INFO	 21344	 20672	LateInitialization	"Intialization finished"
+19-10-2024	12:54:08.661	 INFO	 21344	 12228	DllMain	"DLL_PROCESS_DETACH"
+19-10-2024	12:54:08.664	 INFO	 21344	 12228	DllMain	"PROCESS DETACHED"

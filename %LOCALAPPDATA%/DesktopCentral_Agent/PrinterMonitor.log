@@ -1,0 +1,26 @@
+﻿Date	Time	Severity	PID	TID	Function	Message
+19-10-2024	12:50:07.411	 INFO	 21344	 31692	DllMain	"DLL_PROCESS_ATTACH Mon Aug 19 22:32:08 2024 11.3.2416.6"
+19-10-2024	12:50:07.416	 INFO	 21344	 31692	DllMain	"PROCESS ATTACHED"
+19-10-2024	12:50:07.417	 INFO	 21344	 34704	LateInitialization	"Intialization..."
+19-10-2024	12:50:07.431	 INFO	 21344	 34704	LoadDisplayDevicesName	"DisplayDevices : "
+19-10-2024	12:50:07.433	 INFO	 21344	 34704	LoadDisplayDevicesName	"\\.\DISPLAY1"
+19-10-2024	12:50:07.434	 INFO	 21344	 34704	LoadDisplayDevicesName	"\\.\DISPLAY2"
+19-10-2024	12:50:07.436	 INFO	 21344	 34704	LoadDisplayDevicesName	"\\.\DISPLAY3"
+19-10-2024	12:50:07.438	 INFO	 21344	 34704	LoadDisplayDevicesName	"\\.\DISPLAY4"
+19-10-2024	12:50:07.442	ERROR	 21344	 34704	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+19-10-2024	12:50:07.443	 INFO	 21344	 34704	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\vim.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 87781093
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+19-10-2024	12:50:07.445	 INFO	 21344	 34704	LateInitialization	"Intialization finished"
+19-10-2024	12:54:08.666	 INFO	 21344	 12228	DllMain	"DLL_PROCESS_DETACH"
+19-10-2024	12:54:08.670	 INFO	 21344	 12228	DllMain	"PROCESS DETACHED"
